@@ -1,3 +1,0 @@
-dejar el color
-itnentar mejorar el sobreajuste
-cuando muestre las metricas, probar con los datos de validacion y ademas con test
